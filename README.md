@@ -1,7 +1,7 @@
 # :car: [Car Insurance Quote](http://karenfreemansmith.github.io/insurancequotes) :clipboard:
 ![project screenshot](/img/screenshot.jpg)
 
-__Version 1: March 31, 2016__
+__Version 2: April 18, 2016__
 
 ## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
 
@@ -15,7 +15,6 @@ __*Website that provides car insurance quotes*__
 For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 
 ### Known Issues
-* Needs some styling
 * Could use more business rules to determine rates/survey questions
 
 ### Technologies Used
