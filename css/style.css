@@ -2,6 +2,23 @@
   display: block;
 }
 
+.col-xs-3 {
+  background-color: green;
+  height: 500px;
+}
+
 #quote {
   display: none;
+}
+
+h1 {
+  font-family: 'Audiowide', cursive;
+  background-color: lime;
+  padding: 2%;
+  margin-top: -3%;
+}
+
+img {
+  width: 100%;
+  opacity: .7;
 }
