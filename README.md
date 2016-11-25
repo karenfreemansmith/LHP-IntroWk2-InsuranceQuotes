@@ -1,20 +1,21 @@
-# :car: [Car Insurance Quote](http://karenfreemansmith.github.io/insurancequotes) :clipboard:
-![project screenshot](/img/screenshot.jpg)
+# Insurance Quotes
+Version 0.0.2: April 18, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 2: April 18, 2016__
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+![screenshot of project running](screenshot.png)
 
-### Description
-__*Website that provides car insurance quotes*__
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: A webpage gives you an insurance quote based on the information you enter into a form.*
 
-## Technologies Used
-HTML, CSS
+* Version 0.0.2 - add some styling to page
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk2-InsuranceQuotes)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
